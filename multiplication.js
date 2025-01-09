@@ -1,5 +1,5 @@
 
-let a = 2;
+let a = 66;
 let b = 7;
 
 let result = a * b;
