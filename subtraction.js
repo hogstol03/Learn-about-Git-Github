@@ -1,6 +1,6 @@
 
 let a = 2;
-let b = 6;
+let b = 8;
 
 let result = b - a;
 
